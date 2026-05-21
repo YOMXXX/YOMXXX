@@ -23,8 +23,7 @@ jobs:
           PRS=$(gh search prs --author "${{ github.repository_owner }}" \
             --limit 5 --sort created --order desc \
             --json repository,title,state,url \
-            --template '{{range .}}- {{if eq .state "merged"}}✅ Merged{{else if eq .state "closed"}}🚫 Closed{{else}}🔧 Opened{{end}} [`{{.repository.nameWithOwner}}`]({{.url}}) — _{{.title}}_
-{{end}}')
+            --template '{{range .}}- {{if eq .state "merged"}}✅ Merged{{else if eq .state "closed"}}🚫 Closed{{else}}🔧 Opened{{end}} [`{{.repository.nameWithOwner}}`]({{.url}}) — _{{.title}}_{{"\n"}}{{end}}')
 
           PRS=$(printf '%s' "$PRS" | sed -e 's/[[:space:]]*$//' | awk 'NF')
 
