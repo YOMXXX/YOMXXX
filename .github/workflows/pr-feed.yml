@@ -42,14 +42,23 @@ jobs:
           ' README.md > README.md.new
           mv README.md.new README.md
 
-      - name: Commit if changed
+      - name: Commit if changed (with rebase retry)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore(readme): refresh latest PR feed"
-            git push
+            exit 0
           fi
+          git commit -m "chore(readme): refresh latest PR feed"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "failed after 5 attempts"
+          exit 1
