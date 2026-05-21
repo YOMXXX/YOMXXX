@@ -48,14 +48,14 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/tinyhumansai/openhuman">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinyhumansai&repo=openhuman&theme=tokyonight&hide_border=true&description_lines_count=2" alt="openhuman" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=tinyhumansai&repo=openhuman&theme=tokyonight&hide_border=true&description_lines_count=2" alt="openhuman" />
       </a>
       <br/>
       <sub>✅ <b>Merged</b>: CORS hardening · MCP client provenance</sub>
     </td>
     <td width="50%">
       <a href="https://github.com/multica-ai/multica">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=multica-ai&repo=multica&theme=tokyonight&hide_border=true&description_lines_count=2" alt="multica" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=multica-ai&repo=multica&theme=tokyonight&hide_border=true&description_lines_count=2" alt="multica" />
       </a>
       <br/>
       <sub>✅ <b>Merged</b>: WS auth hardening · runtime binding</sub>
@@ -64,14 +64,14 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/obra/superpowers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=obra&repo=superpowers&theme=tokyonight&hide_border=true&description_lines_count=2" alt="superpowers" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=obra&repo=superpowers&theme=tokyonight&hide_border=true&description_lines_count=2" alt="superpowers" />
       </a>
       <br/>
       <sub>🚀 <b>Active</b>: Worktree path fixes · SDD scope guard</sub>
     </td>
     <td width="50%">
       <a href="https://github.com/nexu-io/open-design">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexu-io&repo=open-design&theme=tokyonight&hide_border=true&description_lines_count=2" alt="open-design" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=nexu-io&repo=open-design&theme=tokyonight&hide_border=true&description_lines_count=2" alt="open-design" />
       </a>
       <br/>
       <sub>🚀 <b>Active</b>: MCP tools · zh-CN localization · CLI</sub>
@@ -80,14 +80,14 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/rtk-ai/rtk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rtk-ai&repo=rtk&theme=tokyonight&hide_border=true&description_lines_count=2" alt="rtk" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=rtk-ai&repo=rtk&theme=tokyonight&hide_border=true&description_lines_count=2" alt="rtk" />
       </a>
       <br/>
       <sub>🚀 <b>Active</b>: Discover rewrites · secret redaction</sub>
     </td>
     <td width="50%">
       <a href="https://github.com/Tencent/TencentDB-Agent-Memory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tencent&repo=TencentDB-Agent-Memory&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TencentDB-Agent-Memory" />
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=Tencent&repo=TencentDB-Agent-Memory&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TencentDB-Agent-Memory" />
       </a>
       <br/>
       <sub>🚀 <b>Active</b>: Codex integration support</sub>
@@ -151,8 +151,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOMXXX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOMXXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="top langs" />
+  <img src="https://github-readme-stats-ivory-omega.vercel.app/api?username=YOMXXX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats-ivory-omega.vercel.app/api/top-langs/?username=YOMXXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="top langs" />
 </p>
 
 <p align="center">
