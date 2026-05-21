@@ -114,12 +114,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1591](https://github.com/obra/superpowers/pull/1591#issuecomment-4505411250) in [obra/superpowers](https://github.com/obra/superpowers)
-2. 🗣 Commented on [#1590](https://github.com/obra/superpowers/pull/1590#issuecomment-4505411085) in [obra/superpowers](https://github.com/obra/superpowers)
-3. 🗣 Commented on [#1593](https://github.com/obra/superpowers/pull/1593#issuecomment-4505411578) in [obra/superpowers](https://github.com/obra/superpowers)
-4. 🗣 Commented on [#1592](https://github.com/obra/superpowers/pull/1592#issuecomment-4505411411) in [obra/superpowers](https://github.com/obra/superpowers)
-5. 🗣 Commented on [#1589](https://github.com/obra/superpowers/pull/1589#issuecomment-4505410938) in [obra/superpowers](https://github.com/obra/superpowers)
-<!--END_SECTION:activity-->
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1593) — _docs: show output path override example_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1592) — _fix: align windows lifecycle test with server layout_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1591) — _fix: make visual companion script paths skill-relative_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1590) — _fix: escape SessionStart JSON control characters_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_<!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
 <!-- │                       📊  STATS                              │ -->
