@@ -1,0 +1,25 @@
+name: Update PR Feed
+
+on:
+  schedule:
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "chore(readme): refresh latest OSS activity"

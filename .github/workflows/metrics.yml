@@ -1,0 +1,27 @@
+name: Generate Metrics (Isocalendar)
+
+on:
+  schedule:
+    - cron: "45 16 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Shanghai
+          config_display: regular
