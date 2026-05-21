@@ -138,7 +138,7 @@
 - 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1592) — _fix: align windows lifecycle test with server layout_
 - 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1591) — _fix: make visual companion script paths skill-relative_
 - 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1590) — _fix: escape SessionStart JSON control characters_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_<!--END_SECTION:activity-->
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_<!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
 <!-- │                       📊  STATS                              │ -->
