@@ -106,13 +106,14 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30266 | 31 | 7 | 21 |
-| [`slopus/happy`](https://github.com/slopus/happy) | 21003 | 20 | 0 | 20 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52150 | 17 | 1 | 16 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24339 | 14 | 12 | 1 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48499 | 10 | 0 | 10 |
-| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3715 | 9 | 1 | 6 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 200869 | 6 | 0 | 6 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30476 | 31 | 7 | 21 |
+| [`slopus/happy`](https://github.com/slopus/happy) | 21014 | 20 | 0 | 20 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52288 | 18 | 1 | 17 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24552 | 15 | 12 | 2 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48687 | 13 | 0 | 13 |
+| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3733 | 10 | 1 | 6 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 201161 | 9 | 0 | 9 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 77230 | 9 | 0 | 9 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
