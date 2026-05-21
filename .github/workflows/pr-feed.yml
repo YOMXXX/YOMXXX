@@ -24,23 +24,12 @@ jobs:
             --limit 5 --sort created --order desc \
             --json repository,title,state,url \
             --template '{{range .}}- {{if eq .state "merged"}}✅ Merged{{else if eq .state "closed"}}🚫 Closed{{else}}🔧 Opened{{end}} [`{{.repository.nameWithOwner}}`]({{.url}}) — _{{.title}}_
-          {{end}}')
+{{end}}')
 
-          awk -v block="$PRS" '
-            /<!--START_SECTION:activity-->/ {
-              print
-              printf "%s", block
-              skip = 1
-              next
-            }
-            /<!--END_SECTION:activity-->/ {
-              skip = 0
-              print
-              next
-            }
-            !skip { print }
-          ' README.md > README.md.new
-          mv README.md.new README.md
+          PRS=$(printf '%s' "$PRS" | sed -e 's/[[:space:]]*$//' | awk 'NF')
+
+          export PRS
+          perl -i -0pe 's|<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->|<!--START_SECTION:activity-->\n$ENV{PRS}\n<!--END_SECTION:activity-->|s' README.md
 
       - name: Commit if changed (with rebase retry)
         run: |
