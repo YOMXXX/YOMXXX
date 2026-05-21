@@ -1,0 +1,96 @@
+name: Monthly Recently Shipped Review
+
+on:
+  schedule:
+    - cron: "0 1 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  diff:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4
+
+      - name: Diff curated Recently Shipped vs all contributing projects
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          MIN_PRS: 5
+        run: |
+          set -euo pipefail
+
+          SHIPPED=$(awk '/RECENTLY SHIPPED/,/ALL CONTRIBUTING PROJECTS/' README.md \
+            | grep -oE 'github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+' \
+            | sed 's|github\.com/||' \
+            | sort -u)
+
+          ALL=$(gh search prs --author "$OWNER" --limit 200 \
+            --json repository,state \
+            --jq "group_by(.repository.nameWithOwner)
+              | map({repo: .[0].repository.nameWithOwner, total: length})
+              | map(select(.total >= $MIN_PRS))
+              | map(select(.repo | startswith(\"$OWNER/\") | not))
+              | sort_by(-.total)
+              | .[] | .repo")
+
+          MISSING=$(comm -23 <(echo "$ALL" | sort) <(echo "$SHIPPED"))
+
+          if [ -z "$MISSING" ]; then
+            echo "✓ All projects with ${MIN_PRS}+ PRs are already in Recently Shipped."
+            exit 0
+          fi
+
+          echo "Found missing projects:"
+          echo "$MISSING"
+
+          {
+            echo "## Recently Shipped 缺漏检测"
+            echo ""
+            echo "以下项目在 \`All Contributing Projects\` 表里达到了 **${MIN_PRS}+ PRs** 的显著贡献阈值，但**没出现在 \`💼 Recently Shipped\` 卡墙里**。"
+            echo ""
+            echo "| Project | PRs | Merged |"
+            echo "|---------|----:|------:|"
+            for repo in $MISSING; do
+              counts=$(gh search prs --author "$OWNER" --repo "$repo" \
+                --json state \
+                --jq '{total: length, merged: ([.[] | select(.state == "merged")] | length)} | "\(.total)\t\(.merged)"')
+              total=$(printf '%s' "$counts" | cut -f1)
+              merged=$(printf '%s' "$counts" | cut -f2)
+              echo "| [\`$repo\`](https://github.com/$repo) | $total | $merged |"
+            done
+            echo ""
+            echo "### 建议操作"
+            echo ""
+            echo "如果你认为这些项目值得 promote 到 Recently Shipped 卡墙："
+            echo "1. 在 \`README.md\` 的 \`💼 Recently Shipped\` 区段添加新卡片（带精准贡献描述）"
+            echo "2. 中文版 \`代码分布\` 表同步加上"
+            echo "3. 更新顶部 \`Active in N OSS projects\` 的数字"
+            echo ""
+            echo "或者认为某项目不够"标志性"——直接关闭本 issue，下个月会再次检测。"
+            echo ""
+            echo "---"
+            echo "_本 issue 由 \`Monthly Recently Shipped Review\` workflow 自动生成。_"
+          } > body.md
+
+          EXISTING=$(gh issue list \
+            --search 'Recently Shipped 缺漏检测 in:title is:open' \
+            --json number --jq '.[0].number // empty')
+
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body-file body.md
+            echo "✓ Appended to existing issue #$EXISTING"
+          else
+            gh issue create \
+              --title "[monthly] Recently Shipped 缺漏检测" \
+              --body-file body.md
+            echo "✓ Created new issue"
+          fi
