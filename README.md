@@ -134,11 +134,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1593) — _docs: show output path override example_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1592) — _fix: align windows lifecycle test with server layout_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1591) — _fix: make visual companion script paths skill-relative_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1590) — _fix: escape SessionStart JSON control characters_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1589) — _fix: guard EnterWorktree core.bare parent checkout_
+- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/71) — _feat(recall): cap injected memory context_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2602) — _fix(observer): truncate oversized prompt fields + drop overflow from hard-stop (closes #2468)_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2599) — _fix(supervisor): make Windows captureProcessStartToken actually return a token (closes #2578)_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2598) — _fix(hooks): replace fragile $SHELL -lc PATH probe with printenv-first pattern_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2597) — _fix(build): populate plugin/node_modules during build (partial #2407)_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
