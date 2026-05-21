@@ -114,11 +114,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened PR [#1593](https://github.com/obra/superpowers/pull/1593) in **obra/superpowers** · _docs: show output path override example_
-- 🔧 Opened PR [#1592](https://github.com/obra/superpowers/pull/1592) in **obra/superpowers** · _fix: align windows lifecycle test with server layout_
-- 🔧 Opened PR [#2399](https://github.com/tinyhumansai/openhuman/pull/2399) in **tinyhumansai/openhuman** · _fix(security): allow Windows read commands_
-- 🔧 Opened PR [#67](https://github.com/Tencent/TencentDB-Agent-Memory/pull/67) in **Tencent/TencentDB-Agent-Memory** · _fix: support Codex integration requirements_
-- ✅ Merged PR [#2332](https://github.com/tinyhumansai/openhuman/pull/2332) in **tinyhumansai/openhuman** · _feat(mcp): capture client provenance in stdio sessions_
+1. 🗣 Commented on [#1591](https://github.com/obra/superpowers/pull/1591#issuecomment-4505411250) in [obra/superpowers](https://github.com/obra/superpowers)
+2. 🗣 Commented on [#1590](https://github.com/obra/superpowers/pull/1590#issuecomment-4505411085) in [obra/superpowers](https://github.com/obra/superpowers)
+3. 🗣 Commented on [#1593](https://github.com/obra/superpowers/pull/1593#issuecomment-4505411578) in [obra/superpowers](https://github.com/obra/superpowers)
+4. 🗣 Commented on [#1592](https://github.com/obra/superpowers/pull/1592#issuecomment-4505411411) in [obra/superpowers](https://github.com/obra/superpowers)
+5. 🗣 Commented on [#1589](https://github.com/obra/superpowers/pull/1589#issuecomment-4505410938) in [obra/superpowers](https://github.com/obra/superpowers)
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
