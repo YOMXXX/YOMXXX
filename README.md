@@ -110,7 +110,7 @@
 | [`slopus/happy`](https://github.com/slopus/happy) | 20999 | 20 | 0 | 20 |
 | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52143 | 17 | 1 | 16 |
 | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24325 | 14 | 12 | 1 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48483 | 10 | 0 | 10 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48484 | 10 | 0 | 10 |
 | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3715 | 9 | 1 | 6 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 200842 | 6 | 0 | 6 |
 <!--END_SECTION:all-projects-->
