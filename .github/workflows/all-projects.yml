@@ -1,0 +1,86 @@
+name: Update All Contributing Projects
+
+on:
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Aggregate PRs per repository and enrich with star counts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          gh search prs --author "$OWNER" --limit 200 \
+            --json repository,state \
+            --jq 'group_by(.repository.nameWithOwner)
+              | map({
+                  repo: .[0].repository.nameWithOwner,
+                  total: length,
+                  merged: ([.[] | select(.state == "merged")] | length),
+                  open:   ([.[] | select(.state == "open")]   | length),
+                  closed: ([.[] | select(.state == "closed")] | length)
+                })
+              | sort_by(-.total)' \
+            | jq --arg owner "$OWNER" \
+                'map(select(.repo | startswith($owner + "/") | not))' \
+            > projects.json
+
+          : > projects_enriched.json
+          jq -c '.[]' projects.json | while read -r row; do
+            repo=$(echo "$row" | jq -r '.repo')
+            star=$(gh api "repos/$repo" --jq '.stargazers_count' 2>/dev/null || echo 0)
+            echo "$row" | jq --argjson star "$star" '. + {star: $star}' >> projects_enriched.json
+          done
+          jq -s '. | sort_by(-.total, -.star)' projects_enriched.json > projects_final.json
+
+          ROWS=$(jq -r '
+            .[] | "| [`\(.repo)`](https://github.com/\(.repo)) | \(.star) | \(.total) | \(.merged) | \(.open) |"
+          ' projects_final.json)
+
+          {
+            echo "| Project | ⭐ | PRs | ✅ Merged | 🚀 Open |"
+            echo "|---------|---:|----:|--------:|-------:|"
+            echo "$ROWS"
+          } > block.md
+
+          awk '
+            /<!--START_SECTION:all-projects-->/ {
+              print
+              while ((getline line < "block.md") > 0) print line
+              close("block.md")
+              skip = 1
+              next
+            }
+            /<!--END_SECTION:all-projects-->/ {
+              skip = 0
+              print
+              next
+            }
+            !skip { print }
+          ' README.md > README.md.new
+          mv README.md.new README.md
+
+          rm -f projects.json projects_enriched.json projects_final.json block.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(readme): refresh all contributing projects"
+            git push
+          fi

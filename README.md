@@ -96,6 +96,19 @@
 </table>
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
+<!-- │           🌐  ALL CONTRIBUTING PROJECTS (auto)               │ -->
+<!-- ╰─────────────────────────────────────────────────────────────╯ -->
+
+### 🌐  All Contributing Projects
+
+<sub>Auto-aggregated from every PR I've ever opened — refreshed daily.</sub>
+
+<!--START_SECTION:all-projects-->
+| Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
+|---------|---:|----:|--------:|-------:|
+<!--END_SECTION:all-projects-->
+
+<!-- ╭─────────────────────────────────────────────────────────────╮ -->
 <!-- │                🧭  HOW I CONTRIBUTE                           │ -->
 <!-- ╰─────────────────────────────────────────────────────────────╯ -->
 
