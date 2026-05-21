@@ -106,13 +106,13 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30262 | 31 | 7 | 21 |
-| [`slopus/happy`](https://github.com/slopus/happy) | 21001 | 20 | 0 | 20 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52146 | 17 | 1 | 16 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24329 | 14 | 12 | 1 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48489 | 10 | 0 | 10 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30266 | 31 | 7 | 21 |
+| [`slopus/happy`](https://github.com/slopus/happy) | 21003 | 20 | 0 | 20 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52149 | 17 | 1 | 16 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24334 | 14 | 12 | 1 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48499 | 10 | 0 | 10 |
 | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3715 | 9 | 1 | 6 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 200848 | 6 | 0 | 6 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 200866 | 6 | 0 | 6 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
