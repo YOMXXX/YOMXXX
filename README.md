@@ -157,14 +157,15 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30596 | 31 | 7 | 21 |
-| [`slopus/happy`](https://github.com/slopus/happy) | 21022 | 20 | 0 | 20 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52342 | 18 | 1 | 17 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 24701 | 15 | 12 | 2 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 48801 | 13 | 0 | 13 |
-| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3741 | 10 | 1 | 6 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 201348 | 9 | 0 | 9 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 77256 | 9 | 0 | 9 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 30882 | 31 | 7 | 21 |
+| [`slopus/happy`](https://github.com/slopus/happy) | 21032 | 20 | 0 | 20 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 52477 | 18 | 1 | 17 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 25078 | 17 | 12 | 4 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 49111 | 13 | 0 | 13 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 201785 | 10 | 0 | 10 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 77313 | 10 | 0 | 10 |
+| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 3774 | 10 | 1 | 6 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 58939 | 2 | 0 | 2 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
