@@ -183,7 +183,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOMXXX/YOMXXX/main/metrics.plugin.habits.svg" alt="coding habits — time of day, day of week, language activity" />
+  <img src="https://raw.githubusercontent.com/YOMXXX/YOMXXX/main/metrics.plugin.followup.svg" alt="PR / Issue followup — lifecycle stats per repository and user-wide" />
 </p>
 
 <p align="center">
