@@ -26,21 +26,26 @@ jobs:
           set -euo pipefail
           for i in 1 2 3 4 5 6; do
             echo "[$i] fetching streak SVG..."
-            if curl -sf --max-time 25 "$URL" > streak.svg.tmp 2>/dev/null; then
-              if grep -q "Current Streak\|Total Contributions" streak.svg.tmp; then
+            if curl -sf --max-time 25 "$URL" > streak.svg.raw 2>/dev/null; then
+              # PHP 8.1+ in the Vercel runtime emits deprecation warnings (HTML
+              # <br/><b>...</b>) before the <svg> root, which makes the file
+              # invalid XML. Strip everything before <svg.
+              sed -n '/<svg/,$p' streak.svg.raw > streak.svg.tmp
+              if head -1 streak.svg.tmp | grep -q "^<svg" && grep -q "Current Streak\|Total Contributions" streak.svg.tmp; then
                 mv streak.svg.tmp streak.svg
+                rm -f streak.svg.raw
                 size=$(wc -c < streak.svg)
                 echo "✓ got valid streak SVG (${size} bytes)"
                 exit 0
               else
-                echo "✗ got response but no streak markers (preview):"
-                head -c 200 streak.svg.tmp
+                echo "✗ got response but couldn't extract clean SVG (preview):"
+                head -c 200 streak.svg.raw
                 echo ""
               fi
             else
               echo "✗ curl failed or timed out"
             fi
-            rm -f streak.svg.tmp
+            rm -f streak.svg.tmp streak.svg.raw
             sleep 10
           done
           echo "failed after 6 attempts"
