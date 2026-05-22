@@ -1,0 +1,68 @@
+name: Generate Streak SVG
+
+on:
+  schedule:
+    - cron: "15 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4
+
+      - name: Fetch streak SVG (with cold-start retry)
+        env:
+          URL: "https://github-readme-streak-stats-henna-two.vercel.app/?user=YOMXXX&theme=tokyonight&hide_border=true"
+        run: |
+          set -euo pipefail
+          for i in 1 2 3 4 5 6; do
+            echo "[$i] fetching streak SVG..."
+            if curl -sf --max-time 25 "$URL" > streak.svg.tmp 2>/dev/null; then
+              if grep -q "Current Streak\|Total Contributions" streak.svg.tmp; then
+                mv streak.svg.tmp streak.svg
+                size=$(wc -c < streak.svg)
+                echo "✓ got valid streak SVG (${size} bytes)"
+                exit 0
+              else
+                echo "✗ got response but no streak markers (preview):"
+                head -c 200 streak.svg.tmp
+                echo ""
+              fi
+            else
+              echo "✗ curl failed or timed out"
+            fi
+            rm -f streak.svg.tmp
+            sleep 10
+          done
+          echo "failed after 6 attempts"
+          exit 1
+
+      - name: Commit if changed (with rebase retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(streak): refresh streak.svg"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "failed after 5 attempts"
+          exit 1

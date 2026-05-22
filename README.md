@@ -175,7 +175,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-henna-two.vercel.app?user=YOMXXX&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://raw.githubusercontent.com/YOMXXX/YOMXXX/main/streak.svg" alt="streak" />
 </p>
 
 <p align="center">
