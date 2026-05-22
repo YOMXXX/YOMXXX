@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/OSS%20PRs-150%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="OSS PRs created" />
   <img src="https://img.shields.io/badge/GitHub%20since-2017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2017" />
   <img src="https://img.shields.io/badge/Open%20to-OSS%20collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to OSS" />
-  <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="powered by claude code" />
 </p>
 
 <p align="center">
@@ -35,6 +34,15 @@
     <img src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white" alt="weibo" />
   </a>
   <img src="https://img.shields.io/badge/GMT%2B8-Beijing%20Time-EF4444?style=for-the-badge&logo=clockify&logoColor=white" alt="GMT+8" />
+</p>
+
+<p align="center">
+  <sub><b>🤖 AI Toolchain</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-Opus%204.7%20%5B1M%5D%20%C2%B7%20Max-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code · opus 4.7 [1M] · Max" />
+  <img src="https://img.shields.io/badge/Codex-GPT--5.5%20%C2%B7%20xhigh-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="codex · gpt-5.5 · xhigh" />
 </p>
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
