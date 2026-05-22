@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOMXXX&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="profile views" />
   <img src="https://img.shields.io/github/followers/YOMXXX?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-OSS%20collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to OSS" />
+  <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="powered by claude code" />
 </p>
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
@@ -179,6 +180,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOMXXX&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOMXXX/YOMXXX/main/metrics.plugin.habits.svg" alt="coding habits — time of day, day of week, language activity" />
 </p>
 
 <p align="center">

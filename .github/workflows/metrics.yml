@@ -1,4 +1,4 @@
-name: Generate Metrics (Isocalendar)
+name: Generate Metrics (Isocalendar + Habits)
 
 on:
   schedule:
@@ -16,9 +16,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  isocalendar:
+  metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Generate 3D isometric calendar
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6  # v3.34
@@ -28,5 +28,19 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Shanghai
+          config_display: regular
+
+      - name: Generate coding habits (time-of-day + day-of-week)
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6  # v3.34
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           config_timezone: Asia/Shanghai
           config_display: regular
