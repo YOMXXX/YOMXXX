@@ -187,11 +187,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4264) — _fix(tasks-todowrite-disabler): stop blocking TodoWrite to keep todo panel live (#3764)_
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4263) — _fix(migration): stop rewriting explicit gpt-5.3-codex to gpt-5.4 (#3777)_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2476) — _feat(tauri): support workspace file links_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2610) — _fix(build): inline zod into worker / server-beta / context-generator bundles (closes #2437)_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1602) — _docs: define plan status contract_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2499) — _feat: make autonomy action budget configurable_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2616) — _feat(privacy): opt-in auto-redaction for common secret patterns (closes #2437)_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4286) — _feat(mcp): add @modelcontextprotocol/server-memory as a builtin MCP_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4283) — _feat(config): excluded_agents — opt custom agents out of omo injections (#3735)_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4277) — _test(mcp-config-handler): lock disabled_mcps idempotency against #4178 regression_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
