@@ -13,11 +13,19 @@
 </p>
 
 <p align="center">
+  <sub><b>📊 At a Glance</b></sub>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOMXXX&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="profile views" />
   <img src="https://img.shields.io/github/followers/YOMXXX?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/OSS%20PRs-150%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="OSS PRs created" />
   <img src="https://img.shields.io/badge/GitHub%20since-2017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2017" />
   <img src="https://img.shields.io/badge/Open%20to-OSS%20collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to OSS" />
+</p>
+
+<p align="center">
+  <sub><b>📫 Connect</b></sub>
 </p>
 
 <p align="center">
