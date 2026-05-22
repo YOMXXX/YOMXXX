@@ -186,11 +186,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/71) — _feat(recall): cap injected memory context_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2602) — _fix(observer): truncate oversized prompt fields + drop overflow from hard-stop (closes #2468)_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2599) — _fix(supervisor): make Windows captureProcessStartToken actually return a token (closes #2578)_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2598) — _fix(hooks): replace fragile $SHELL -lc PATH probe with printenv-first pattern_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2597) — _fix(build): populate plugin/node_modules during build (partial #2407)_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4264) — _fix(tasks-todowrite-disabler): stop blocking TodoWrite to keep todo panel live (#3764)_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4263) — _fix(migration): stop rewriting explicit gpt-5.3-codex to gpt-5.4 (#3777)_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2476) — _feat(tauri): support workspace file links_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2610) — _fix(build): inline zod into worker / server-beta / context-generator bundles (closes #2437)_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1602) — _docs: define plan status contract_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
