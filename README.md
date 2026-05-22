@@ -15,8 +15,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOMXXX&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="profile views" />
   <img src="https://img.shields.io/github/followers/YOMXXX?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/badge/OSS%20PRs-150%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="OSS PRs created" />
+  <img src="https://img.shields.io/badge/GitHub%20since-2017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2017" />
   <img src="https://img.shields.io/badge/Open%20to-OSS%20collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to OSS" />
   <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="powered by claude code" />
+</p>
+
+<p align="center">
+  <a href="mailto:liguanchen@xiaomi.com">
+    <img src="https://img.shields.io/badge/Email-liguanchen%40xiaomi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://yomxxx.com">
+    <img src="https://img.shields.io/badge/Website-yomxxx.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
+  </a>
+  <a href="https://blog.csdn.net/baidu_32885171">
+    <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="csdn blog" />
+  </a>
+  <a href="https://weibo.com/u/2316281131">
+    <img src="https://img.shields.io/badge/Weibo-%E5%BE%AE%E5%8D%9A-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white" alt="weibo" />
+  </a>
+  <img src="https://img.shields.io/badge/GMT%2B8-Beijing%20Time-EF4444?style=for-the-badge&logo=clockify&logoColor=white" alt="GMT+8" />
 </p>
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
