@@ -189,11 +189,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2499) — _feat: make autonomy action budget configurable_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2616) — _feat(privacy): opt-in auto-redaction for common secret patterns (closes #2437)_
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4286) — _feat(mcp): add @modelcontextprotocol/server-memory as a builtin MCP_
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4283) — _feat(config): excluded_agents — opt custom agents out of omo injections (#3735)_
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4277) — _test(mcp-config-handler): lock disabled_mcps idempotency against #4178 regression_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2551) — _feat(tool-registry): add trusted capability providers_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3133) — _feat(blueprints): add import preview_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1621) — _docs: add context-frugal resume contract_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1620) — _docs: add target-system responsibility boundary_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1619) — _docs: add SessionStart prompt budget guard_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
