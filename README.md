@@ -189,11 +189,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2551) — _feat(tool-registry): add trusted capability providers_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3133) — _feat(blueprints): add import preview_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1621) — _docs: add context-frugal resume contract_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1620) — _docs: add target-system responsibility boundary_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1619) — _docs: add SessionStart prompt budget guard_
+- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/86) — _fix(runner): avoid duplicate system prompt on new OpenClaw_
+- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/85) — _fix(plugin): add OpenClaw state dir fallback_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3160) — _feat(agents): add fixed repo config_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3150) — _feat(blueprints): add import apply_
+- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1624) — _docs: show output path override example_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
