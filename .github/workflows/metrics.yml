@@ -1,4 +1,4 @@
-name: Generate Metrics (Isocalendar + Habits)
+name: 📅 立体日历与 PR 跟进
 
 on:
   schedule:

@@ -1,4 +1,4 @@
-name: Monthly Recently Shipped Review
+name: 📋 月度精选橱窗审计
 
 on:
   schedule:

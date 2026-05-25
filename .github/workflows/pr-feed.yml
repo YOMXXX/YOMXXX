@@ -1,4 +1,4 @@
-name: Update PR Feed
+name: 📡 最近 PR 动态
 
 on:
   schedule:

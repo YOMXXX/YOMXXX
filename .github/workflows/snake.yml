@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: 🐍 贡献蛇动画
 
 on:
   schedule:
