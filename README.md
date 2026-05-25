@@ -189,11 +189,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/86) — _fix(runner): avoid duplicate system prompt on new OpenClaw_
-- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/85) — _fix(plugin): add OpenClaw state dir fallback_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3160) — _feat(agents): add fixed repo config_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3150) — _feat(blueprints): add import apply_
-- 🔧 Opened [`obra/superpowers`](https://github.com/obra/superpowers/pull/1624) — _docs: show output path override example_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29239) — _fix(opencode): fail task on empty subagent output_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29238) — _fix(opencode): expose config parse errors over http_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29236) — _fix(opencode): stabilize git diff patch prefixes_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29230) — _fix(opencode): wait for shell output drain_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29225) — _fix(config): allow web permission object rules_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
