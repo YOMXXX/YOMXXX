@@ -205,7 +205,7 @@
 ### 📊  Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOMXXX&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/YOMXXX/YOMXXX/main/trophy.svg" alt="trophies" />
 </p>
 
 <p align="center">

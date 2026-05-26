@@ -1,0 +1,68 @@
+name: 🏆 成就奖杯卡片
+
+on:
+  schedule:
+    - cron: "20 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4
+
+      - name: Fetch trophy SVG (with cold-start retry)
+        env:
+          URL: "https://github-profile-trophy-pied-two.vercel.app/?username=YOMXXX&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"
+        run: |
+          set -euo pipefail
+          for i in 1 2 3 4 5 6; do
+            echo "[$i] fetching trophy SVG..."
+            if curl -sf --max-time 25 "$URL" > trophy.svg.tmp 2>/dev/null; then
+              if head -1 trophy.svg.tmp | grep -q "^<svg" && grep -q "</svg>" trophy.svg.tmp; then
+                mv trophy.svg.tmp trophy.svg
+                size=$(wc -c < trophy.svg)
+                echo "✓ got valid trophy SVG (${size} bytes)"
+                exit 0
+              else
+                echo "✗ got response but not valid SVG (preview):"
+                head -c 200 trophy.svg.tmp
+                echo ""
+              fi
+            else
+              echo "✗ curl failed or timed out"
+            fi
+            rm -f trophy.svg.tmp
+            sleep 10
+          done
+          echo "failed after 6 attempts"
+          exit 1
+
+      - name: Commit if changed (with rebase retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(trophy): refresh trophy.svg"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "failed after 5 attempts"
+          exit 1
