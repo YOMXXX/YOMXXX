@@ -158,17 +158,18 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 33002 | 38 | 8 | 27 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 27716 | 30 | 25 | 2 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 59419 | 20 | 2 | 18 |
-| [`slopus/happy`](https://github.com/slopus/happy) | 21204 | 20 | 0 | 20 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 206145 | 19 | 0 | 2 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 53963 | 18 | 1 | 16 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 78066 | 14 | 0 | 14 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 51951 | 14 | 9 | 5 |
-| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4135 | 13 | 2 | 8 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 165167 | 5 | 0 | 5 |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 154474 | 1 | 0 | 1 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 33262 | 38 | 8 | 27 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 28147 | 31 | 24 | 4 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 59611 | 21 | 2 | 19 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 207502 | 19 | 0 | 2 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 54460 | 18 | 1 | 16 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 165557 | 16 | 0 | 15 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 78354 | 14 | 0 | 14 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 52658 | 14 | 10 | 4 |
+| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4220 | 12 | 3 | 6 |
+| [`slopus/happy`](https://github.com/slopus/happy) | 21229 | 10 | 0 | 10 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 374786 | 3 | 0 | 3 |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 156415 | 1 | 0 | 1 |
 | [`code-yeongyu/lsp-tools-mcp`](https://github.com/code-yeongyu/lsp-tools-mcp) | 1 | 1 | 0 | 1 |
 <!--END_SECTION:all-projects-->
 
