@@ -208,11 +208,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86916) — _fix(tools): drop delivery-mirror and gateway-injected turns from sessions_history_
-- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86912) — _fix(auto-reply): bound pendingFinalDelivery heartbeat replay by attempt cap and TTL_
-- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86910) — _fix(lock): expire stale locks by createdAt before pid liveness_
-- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/93) — _feat(recall): add optional remote rerank_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2680) — _test(memory): avoid PII-like tool rule names_
+- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86959) — _fix(agents): finalize abandoned managed-response streams to release undici sockets_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29421) — _feat(opencode): add single session status endpoint_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2702) — _refactor(memory): route Obsidian deep link through workspace-link layer (#2492)_
+- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29419) — _fix(opencode): migrate stale worktree projects_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2701) — _docs: follow up on #2636 — smoke line + DANGEROUS_ENV_PREFIXES cross-ref_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
