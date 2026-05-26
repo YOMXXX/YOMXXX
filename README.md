@@ -70,7 +70,7 @@
 
 | | |
 |---|---|
-| **NOW** | Active in **8 OSS projects** · ~120 PRs in May 2026 |
+| **NOW** | Active in **10 OSS projects** · ~200 PRs in May 2026 |
 | **BUILDING** | Security & i18n hardening for AI desktop tools |
 | **NEXT** | Deeper into **MCP tooling** & terminal-side agents |
 
@@ -143,6 +143,22 @@
       </a>
       <br/>
       <sub>🚀 <b>Active</b>: Windows cross-platform fixes · build pipeline</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/code-yeongyu/oh-my-openagent">
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=code-yeongyu&repo=oh-my-openagent&theme=tokyonight&hide_border=true&description_lines_count=2" alt="oh-my-openagent" />
+      </a>
+      <br/>
+      <sub>🚀 <b>Active</b>: MCP integrations · regression-lock tests · Windows compat</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/anomalyco/opencode">
+        <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=anomalyco&repo=opencode&theme=tokyonight&hide_border=true&description_lines_count=2" alt="opencode" />
+      </a>
+      <br/>
+      <sub>🚀 <b>Active</b>: CLI stability · TUI fixes · permission scoping</sub>
     </td>
   </tr>
 </table>
@@ -277,7 +293,7 @@
 
 ### 当下在做
 
-- 活跃于 **8 个开源项目**，5 月已交付 ~120 个 PR
+- 活跃于 **10 个开源项目**，5 月已交付 ~200 个 PR
 - 聚焦 **AI 桌面工具的安全加固** 与 **中文本地化**
 - 计划深入 **MCP 服务工具链** 与 **终端侧 agent**
 
@@ -301,6 +317,8 @@
 | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 腾讯 AI Agent 长期记忆 |
 | [`slopus/happy`](https://github.com/slopus/happy) | Claude Code 手机端 · ACP 后端加固 |
 | [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | Claude Memory 工具 · Windows 跨平台修复 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | OpenAgent 加强包 · MCP 集成 · 回归锁定测试 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | OpenCode CLI · 稳定性 + permission 治理 |
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
 <!-- │            📅  CALENDAR ISOGRAPH FOOTER                      │ -->
