@@ -191,11 +191,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29239) — _fix(opencode): fail task on empty subagent output_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29238) — _fix(opencode): expose config parse errors over http_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29236) — _fix(opencode): stabilize git diff patch prefixes_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29230) — _fix(opencode): wait for shell output drain_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29225) — _fix(config): allow web permission object rules_
+- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86916) — _fix(tools): drop delivery-mirror and gateway-injected turns from sessions_history_
+- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86912) — _fix(auto-reply): bound pendingFinalDelivery heartbeat replay by attempt cap and TTL_
+- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86910) — _fix(lock): expire stale locks by createdAt before pid liveness_
+- 🔧 Opened [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory/pull/93) — _feat(recall): add optional remote rerank_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2680) — _test(memory): avoid PII-like tool rule names_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
