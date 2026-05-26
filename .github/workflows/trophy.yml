@@ -27,7 +27,7 @@ jobs:
           for i in 1 2 3 4 5 6; do
             echo "[$i] fetching trophy SVG..."
             if curl -sf --max-time 25 "$URL" > trophy.svg.tmp 2>/dev/null; then
-              if head -1 trophy.svg.tmp | grep -q "^<svg" && grep -q "</svg>" trophy.svg.tmp; then
+              if grep -q "<svg" trophy.svg.tmp && grep -q "</svg>" trophy.svg.tmp; then
                 mv trophy.svg.tmp trophy.svg
                 size=$(wc -c < trophy.svg)
                 echo "✓ got valid trophy SVG (${size} bytes)"
