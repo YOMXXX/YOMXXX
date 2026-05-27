@@ -174,18 +174,17 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 33312 | 38 | 8 | 27 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 28251 | 31 | 23 | 6 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 59647 | 21 | 2 | 19 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 165649 | 20 | 0 | 19 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 207790 | 19 | 0 | 2 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 54575 | 18 | 1 | 16 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 78520 | 14 | 0 | 14 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 52833 | 14 | 10 | 4 |
-| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4232 | 11 | 3 | 6 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 374841 | 6 | 0 | 1 |
-| [`slopus/happy`](https://github.com/slopus/happy) | 21233 | 4 | 0 | 4 |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 156839 | 1 | 0 | 1 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 166110 | 34 | 0 | 0 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 33627 | 30 | 8 | 19 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 28783 | 26 | 19 | 5 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 59802 | 24 | 2 | 22 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 209332 | 19 | 0 | 2 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 55097 | 18 | 1 | 16 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 53750 | 17 | 12 | 5 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 79104 | 14 | 0 | 14 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 375056 | 9 | 0 | 4 |
+| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4295 | 6 | 2 | 4 |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 158775 | 1 | 0 | 1 |
 | [`code-yeongyu/lsp-tools-mcp`](https://github.com/code-yeongyu/lsp-tools-mcp) | 1 | 1 | 0 | 1 |
 <!--END_SECTION:all-projects-->
 
