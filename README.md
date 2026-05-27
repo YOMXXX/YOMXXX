@@ -208,11 +208,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`openclaw/openclaw`](https://github.com/openclaw/openclaw/pull/86959) — _fix(agents): finalize abandoned managed-response streams to release undici sockets_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29421) — _feat(opencode): add single session status endpoint_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2702) — _refactor(memory): route Obsidian deep link through workspace-link layer (#2492)_
-- 🔧 Opened [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29419) — _fix(opencode): migrate stale worktree projects_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2701) — _docs: follow up on #2636 — smoke line + DANGEROUS_ENV_PREFIXES cross-ref_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3110) — _fix(daemon): reconcile missing artifact manifests on run end (#2893)_
+- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4543) — _test(process-cleanup): add fast-signal-cleanup regression test + fix existing test's false-green (#4058)_
+- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3072) — _test(web): verify the Web Storage shim end-to-end (#1403)_
+- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3070) — _fix(web): typographic fallback for failed Home media posters (#2955)_
+- 🚫 Closed [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29492) — _fix(acp): flush updated text chunks_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
