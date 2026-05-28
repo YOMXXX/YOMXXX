@@ -207,11 +207,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3110) — _fix(daemon): reconcile missing artifact manifests on run end (#2893)_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2799) — _feat(migration): add Hermes Agent memory importer (#1440)_
+- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3110) — _fix(daemon): reconcile missing artifact manifests on run end (#2893)_
 - 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4543) — _test(process-cleanup): add fast-signal-cleanup regression test + fix existing test's false-green (#4058)_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3072) — _test(web): verify the Web Storage shim end-to-end (#1403)_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3070) — _fix(web): typographic fallback for failed Home media posters (#2955)_
-- 🚫 Closed [`anomalyco/opencode`](https://github.com/anomalyco/opencode/pull/29492) — _fix(acp): flush updated text chunks_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
