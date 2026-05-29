@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-Opus%204.8%20%5B1M%5D%20%C2%B7%20Max-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code · opus 4.8 [1M] · Max" />
+  <img src="https://img.shields.io/badge/Claude%20Code-Opus%204.8%20%5B1M%5D%20%C2%B7%20Ultracode-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code · opus 4.8 [1M] · Ultracode" />
   <img src="https://img.shields.io/badge/Codex-GPT--5.5%20%C2%B7%20xhigh%20%C2%B7%20fast-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="codex · gpt-5.5 · xhigh · fast" />
   <img src="https://img.shields.io/badge/Xiaomi%20MiMo-v2.5--pro-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" alt="xiaomi mimo · v2.5-pro" />
 </p>
