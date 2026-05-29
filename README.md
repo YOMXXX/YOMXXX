@@ -207,11 +207,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2799) — _feat(migration): add Hermes Agent memory importer (#1440)_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3110) — _fix(daemon): reconcile missing artifact manifests on run end (#2893)_
-- 🔧 Opened [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent/pull/4543) — _test(process-cleanup): add fast-signal-cleanup regression test + fix existing test's false-green (#4058)_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3072) — _test(web): verify the Web Storage shim end-to-end (#1403)_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3070) — _fix(web): typographic fallback for failed Home media posters (#2955)_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3543) — _fix(skills): parse multi-line YAML frontmatter in SKILL.md (#3495)_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3317) — _fix(web): truncate long project names in the automation project picker (#3274)_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/2940) — _fix(local-ai): unblock summary diagnostics_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3298) — _fix(desktop): route shell:open-path through explorer.exe on WSL (#1581)_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3297) — _test(daemon): stabilize artifact-manifest reconcile mtime test on slow CI_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
