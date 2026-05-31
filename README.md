@@ -190,17 +190,17 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 29721 | 36 | 32 | 0 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 167432 | 34 | 0 | 0 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 60300 | 24 | 2 | 22 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 34274 | 22 | 4 | 15 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 55841 | 21 | 15 | 5 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 212859 | 19 | 0 | 0 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 79725 | 14 | 0 | 14 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 56496 | 12 | 0 | 11 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 375652 | 9 | 0 | 4 |
-| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4469 | 6 | 2 | 4 |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 162402 | 1 | 0 | 1 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 29937 | 38 | 32 | 2 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 167763 | 34 | 0 | 0 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 60425 | 24 | 2 | 22 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 34372 | 22 | 4 | 15 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 56356 | 21 | 16 | 4 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 213586 | 19 | 0 | 0 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 79869 | 15 | 0 | 15 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 375833 | 9 | 0 | 4 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 56778 | 9 | 0 | 8 |
+| [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 4488 | 6 | 2 | 4 |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 163248 | 1 | 0 | 1 |
 | [`code-yeongyu/lsp-tools-mcp`](https://github.com/code-yeongyu/lsp-tools-mcp) | 1 | 1 | 0 | 1 |
 <!--END_SECTION:all-projects-->
 
