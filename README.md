@@ -164,6 +164,22 @@
 </table>
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
+<!-- │            🏅  HIGHEST CONTRIBUTOR RANKINGS                  │ -->
+<!-- ╰─────────────────────────────────────────────────────────────╯ -->
+
+### 🏅  Highest Contributor Rankings
+
+<sub>Top 3 projects where I rank highest in the GitHub contributors graph.</sub>
+
+| Rank | Project | My Contributor Rank | Contribution Signal |
+|---:|---|---:|---|
+| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 9** | Codex integration support · agent memory tooling |
+| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 138** | WS auth hardening · runtime binding · managed agents |
+| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 120** | CORS hardening · MCP provenance · memory migration |
+
+<sub>Ranking uses GitHub contributors ordering by repository contribution count, separate from the PR-volume table below.</sub>
+
+<!-- ╭─────────────────────────────────────────────────────────────╮ -->
 <!-- │           🌐  ALL CONTRIBUTING PROJECTS (auto)               │ -->
 <!-- ╰─────────────────────────────────────────────────────────────╯ -->
 
@@ -303,6 +319,16 @@
 | 🇨🇳  **中文社区痛点** | zh-CN i18n · 微信 / 飞书 / 钉钉集成 |
 | 🐛  **可追溯的真实 bug** | 锚定 Sentry / Issue 的回归，不做投机重构 |
 | 🛡  **安全加固** | CORS · symlink escape · 凭据暴露 |
+
+### 贡献者排名前三
+
+| 排名 | 项目 | 我的贡献者排名 | 代表贡献方向 |
+|---:|------|---:|------|
+| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 9** | Codex 集成支持 · Agent Memory 工具链 |
+| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 138** | WS 鉴权加固 · runtime binding · managed agents |
+| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 120** | CORS 加固 · MCP 来源追踪 · 记忆迁移 |
+
+<sub>排名按 GitHub contributors 列表中的项目内贡献者顺位统计，不等同于 PR 总量排名。</sub>
 
 ### 代码分布
 
