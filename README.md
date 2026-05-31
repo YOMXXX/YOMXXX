@@ -223,11 +223,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3080) — _fix(memory-sync): migrate ClickUp sync to memory_tree pipeline (#2885)_
+- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2732) — _fix(supervisor): replace stale-version worker on SessionStart instead of reusing a zombie (#2601)_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3035) — _refactor(composio): extract derive_toolkit_slug helper_
 - ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3018) — _fix(memory-sync): migrate Linear provider to memory_tree (#2885)_
 - ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3013) — _fix(composio): clarify Zoho Mail readiness (#2914)_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3009) — _fix(composio): map trigger-enable 403 to actionable error (#2913)_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3543) — _fix(skills): parse multi-line YAML frontmatter in SKILL.md (#3495)_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3317) — _fix(web): truncate long project names in the automation project picker (#3274)_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
