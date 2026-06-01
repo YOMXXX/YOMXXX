@@ -29,6 +29,9 @@
 </p>
 
 <p align="center">
+  <a href="mailto:316195542@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-316195542%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="qq email" />
+  </a>
   <a href="mailto:liguanchen@xiaomi.com">
     <img src="https://img.shields.io/badge/Email-liguanchen%40xiaomi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
@@ -358,6 +361,9 @@
 <!-- ╰─────────────────────────────────────────────────────────────╯ -->
 
 <p align="center">
+  <a href="mailto:316195542@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-316195542%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="qq email" />
+  </a>
   <a href="mailto:liguanchen@xiaomi.com">
     <img src="https://img.shields.io/badge/Email-liguanchen%40xiaomi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
