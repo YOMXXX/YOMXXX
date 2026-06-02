@@ -176,9 +176,9 @@
 
 | Rank | Project | My Contributor Rank | Contribution Signal |
 |---:|---|---:|---|
-| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 9** | Codex integration support · agent memory tooling |
-| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 138** | WS auth hardening · runtime binding · managed agents |
-| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 120** | CORS hardening · MCP provenance · memory migration |
+| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 11** | Codex integration support · agent memory tooling |
+| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 145** | WS auth hardening · runtime binding · managed agents |
+| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 122** | CORS hardening · MCP provenance · memory migration |
 | **#4** | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | **#13 / 98** | Discover rewrites · secret redaction |
 | **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | MCP tools · zh-CN localization · CLI |
 
@@ -329,9 +329,9 @@
 
 | 排名 | 项目 | 我的贡献者排名 | 代表贡献方向 |
 |---:|------|---:|------|
-| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 9** | Codex 集成支持 · Agent Memory 工具链 |
-| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 138** | WS 鉴权加固 · runtime binding · managed agents |
-| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 120** | CORS 加固 · MCP 来源追踪 · 记忆迁移 |
+| **#1** | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | **#3 / 11** | Codex 集成支持 · Agent Memory 工具链 |
+| **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 145** | WS 鉴权加固 · runtime binding · managed agents |
+| **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 122** | CORS 加固 · MCP 来源追踪 · 记忆迁移 |
 | **#4** | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | **#13 / 98** | Discover 重写 · 密钥脱敏 |
 | **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | MCP 工具 · zh-CN 本地化 · CLI |
 
