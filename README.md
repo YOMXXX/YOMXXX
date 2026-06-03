@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/3664) — _feat(openclaw): support connecting to existing OpenClaw gateway (#3260)_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3500) — _fix(web): export deck PPTX from preview snapshots_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3176) — _fix(sentry): bind scope user at session boundaries + core boot (#3135)_
-- 🔧 Opened [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2748) — _fix(observer): truncate oversized observation prompt fields to prevent context overflow (#2468)_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3175) — _fix(runtime): apply 16 MiB worker stack to desktop core + agent CLI runtimes (#3159)_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/140) — _feat(scripts): add Windows native Gateway launcher_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/139) — _docs(hermes): document plugging memory-tencentdb into an existing Hermes_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/138) — _docs(troubleshooting): explain Linux ENOENT noise from OpenClaw probes_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/137) — _feat(embedding): support ZeroEntropy native embed API_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/136) — _fix(offload): resolve local-LLM api key via OpenClaw auth-profiles_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
