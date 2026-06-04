@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/140) — _feat(scripts): add Windows native Gateway launcher_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/139) — _docs(hermes): document plugging memory-tencentdb into an existing Hermes_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/138) — _docs(troubleshooting): explain Linux ENOENT noise from OpenClaw probes_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/137) — _feat(embedding): support ZeroEntropy native embed API_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/136) — _fix(offload): resolve local-LLM api key via OpenClaw auth-profiles_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3329) — _fix(cron): emit poll-tick health recovery so a single failed job can't permanently brick the scheduler (#3312)_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3594) — _fix(web): persist BYOK deck artifacts as decks_
+- 🚫 Closed [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/140) — _feat(scripts): add Windows native Gateway launcher_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/139) — _[good first issue] docs(hermes): document plugging memory-tencentdb into an existing Hermes_
+- 🚫 Closed [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/138) — _docs(troubleshooting): explain Linux ENOENT noise from OpenClaw probes_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
