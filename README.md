@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/YOMXXX?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/OSS%20PRs-150%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="OSS PRs created" />
   <a href="https://github.com/nexu-io/open-design">
-    <img src="https://img.shields.io/badge/open--design-Collaborator-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="open-design collaborator" />
+    <img src="https://img.shields.io/badge/open--design-Maintainer-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="open-design maintainer" />
   </a>
   <img src="https://img.shields.io/badge/GitHub%20since-2017-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2017" />
   <img src="https://img.shields.io/badge/Open%20to-OSS%20collab-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="open to OSS" />
@@ -76,7 +76,7 @@
 
 | | |
 |---|---|
-| **NOW** | Active in **10 OSS projects** · **open-design collaborator** · ~200 PRs in May 2026 |
+| **NOW** | Active in **10 OSS projects** · **open-design maintainer** · ~200 PRs in May 2026 |
 | **BUILDING** | Security & i18n hardening for AI desktop tools |
 | **NEXT** | Deeper into **MCP tooling** & terminal-side agents |
 
@@ -116,7 +116,7 @@
         <img src="https://github-readme-stats-ivory-omega.vercel.app/api/pin/?username=nexu-io&repo=open-design&theme=tokyonight&hide_border=true&description_lines_count=2" alt="open-design" />
       </a>
       <br/>
-      <sub>🤝 <b>Collaborator</b>: MCP tools · zh-CN localization · CLI</sub>
+      <sub>🛠 <b>Maintainer</b>: MCP tools · zh-CN localization · CLI</sub>
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@
 | **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 145** | WS auth hardening · runtime binding · managed agents |
 | **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 122** | CORS hardening · MCP provenance · memory migration |
 | **#4** | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | **#13 / 98** | Discover rewrites · secret redaction |
-| **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | Collaborator · MCP tools · zh-CN localization · CLI |
+| **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | Maintainer · MCP tools · zh-CN localization · CLI |
 
 <sub>Ranking uses GitHub contributors ordering by repository contribution count, separate from the PR-volume table below.</sub>
 
@@ -316,7 +316,7 @@
 
 ### 当下在做
 
-- 活跃于 **10 个开源项目**，现为 **open-design 合作者**，5 月已交付 ~200 个 PR
+- 活跃于 **10 个开源项目**，现为 **open-design 维护者**，5 月已交付 ~200 个 PR
 - 聚焦 **AI 桌面工具的安全加固** 与 **中文本地化**
 - 计划深入 **MCP 服务工具链** 与 **终端侧 agent**
 
@@ -336,7 +336,7 @@
 | **#2** | [`multica-ai/multica`](https://github.com/multica-ai/multica) | **#7 / 145** | WS 鉴权加固 · runtime binding · managed agents |
 | **#3** | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | **#11 / 122** | CORS 加固 · MCP 来源追踪 · 记忆迁移 |
 | **#4** | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | **#13 / 98** | Discover 重写 · 密钥脱敏 |
-| **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | 合作者 · MCP 工具 · zh-CN 本地化 · CLI |
+| **#5** | [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | **#20 / 284** | 维护者 · MCP 工具 · zh-CN 本地化 · CLI |
 
 <sub>排名按 GitHub contributors 列表中的项目内贡献者顺位统计，不等同于 PR 总量排名。</sub>
 
@@ -347,7 +347,7 @@
 | [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) ⭐13k | Tauri + Rust 个人 AI 桌面 |
 | [`multica-ai/multica`](https://github.com/multica-ai/multica) | 开源 Managed Agents 平台 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | Agentic Skills 框架 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | Claude Design 开源替代 · 合作者 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | Claude Design 开源替代 · 维护者 |
 | [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | LLM token 节省 CLI（Rust） |
 | [`Tencent/TencentDB-Agent-Memory`](https://github.com/Tencent/TencentDB-Agent-Memory) | 腾讯 AI Agent 长期记忆 |
 | [`slopus/happy`](https://github.com/slopus/happy) | Claude Code 手机端 · ACP 后端加固 |
