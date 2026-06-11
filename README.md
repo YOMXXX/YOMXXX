@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🚫 Closed [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem/pull/2816) — _fix(chroma): spawn uvx directly on Windows instead of via cmd.exe (#2716, #2667)_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3329) — _fix(cron): emit poll-tick health recovery so a single failed job can't permanently brick the scheduler (#3312)_
-- 🚫 Closed [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/3594) — _fix(web): persist BYOK deck artifacts as decks_
-- 🚫 Closed [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/140) — _feat(scripts): add Windows native Gateway launcher_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/139) — _[good first issue] docs(hermes): document plugging memory-tencentdb into an existing Hermes_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/294) — _fix(upgrade): support curl install channel_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/289) — _fix(upgrade): support curl install channel_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/286) — _fix(install): resolve latest version without GitHub API_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/282) — _fix(cli): use configured username for attach auth_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/280) — _fix(cli): redact mcp auth access token_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
