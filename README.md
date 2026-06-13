@@ -198,17 +198,17 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 6511 | 41 | 0 | 41 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 31737 | 39 | 35 | 0 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 173658 | 34 | 0 | 0 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 62008 | 23 | 6 | 12 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 63938 | 13 | 8 | 3 |
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 5293 | 13 | 3 | 4 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 36407 | 10 | 2 | 6 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 378373 | 9 | 0 | 4 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 225876 | 9 | 0 | 0 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 81977 | 7 | 1 | 4 |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 174106 | 1 | 0 | 1 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 7819 | 41 | 0 | 41 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 31888 | 39 | 35 | 0 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 173985 | 34 | 0 | 0 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 62100 | 23 | 6 | 12 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 64281 | 13 | 8 | 2 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 5475 | 13 | 3 | 4 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 36469 | 10 | 3 | 5 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 378535 | 9 | 0 | 4 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 226758 | 9 | 0 | 0 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 82115 | 7 | 1 | 4 |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 174669 | 1 | 0 | 1 |
 | [`code-yeongyu/lsp-tools-mcp`](https://github.com/code-yeongyu/lsp-tools-mcp) | 4 | 1 | 0 | 1 |
 <!--END_SECTION:all-projects-->
 
