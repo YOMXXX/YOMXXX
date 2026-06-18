@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/391) — _fix(tui): simplify MiMo Auto rate limit retry text_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/389) — _fix(tui): show home logo in plain terminals_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/383) — _fix(tui): let Ctrl-C abort busy sessions_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/379) — _fix(prompt): include WSL Windows interop context_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/378) — _fix(install): show shell refresh hint after PATH update_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4535) — _fix(platform): discover Windows fnm-managed Node in the toolchain bin list_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4531) — _fix(packaged): reclaim stale namespace sidecars before launch (#4441)_
+- 🚫 Closed [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/391) — _fix(tui): simplify MiMo Auto rate limit retry text_
+- 🚫 Closed [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/389) — _fix(tui): show home logo in plain terminals_
+- 🚫 Closed [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/383) — _fix(tui): let Ctrl-C abort busy sessions_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
