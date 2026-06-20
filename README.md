@@ -230,11 +230,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4348) — _test: isolate Redis-backed package tests_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4346) — _fix(codex): handle app-server permission requests_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3850) — _fix(tauri): allow push-to-talk hotkey commands_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4343) — _fix: harden high-priority issue handling_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4553) — _fix(daemon): actionable connection-test error for OpenCode custom-provider env failures (#4514)_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3861) — _fix: gate local voice provider activation until installed_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4366) — _fix(runtimes): clarify custom runtime deletion_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/232) — _fix(tcvdb): escape session filter literals_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4362) — _fix(lark): downgrade markdown tables in cards_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4360) — _fix(cli): guide remote setup callbacks_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
