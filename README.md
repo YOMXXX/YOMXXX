@@ -198,18 +198,18 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 32746 | 41 | 31 | 6 |
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10165 | 41 | 0 | 0 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 176935 | 34 | 0 | 0 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 37358 | 19 | 5 | 12 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 68525 | 18 | 10 | 3 |
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 5955 | 15 | 3 | 6 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 379792 | 9 | 0 | 3 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 234871 | 9 | 0 | 0 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63141 | 7 | 4 | 1 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 83540 | 3 | 1 | 0 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 64505 | 3 | 0 | 3 |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 179614 | 1 | 0 | 1 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 32800 | 41 | 34 | 1 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10329 | 41 | 0 | 0 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 177360 | 34 | 0 | 0 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 37526 | 19 | 6 | 11 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 69138 | 18 | 11 | 2 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 5978 | 15 | 3 | 6 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 379961 | 9 | 0 | 3 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 235911 | 9 | 0 | 0 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63264 | 7 | 4 | 1 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 83749 | 3 | 1 | 0 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 65007 | 3 | 0 | 3 |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | 180358 | 1 | 0 | 1 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
