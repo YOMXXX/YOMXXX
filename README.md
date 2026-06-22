@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3875) — _fix(rpc): handle legacy namespaced method calls_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3875) — _fix(rpc): handle legacy namespaced method calls_
 - 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2535) — _fix(hook): accept current Claude tool input keys_
 - 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2534) — _fix(rewrite): strip rtk prefix from shell builtins_
 - 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2533) — _fix(parser): preserve UTF-8 boundaries extracting JSON_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3861) — _fix: gate local voice provider activation until installed_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3861) — _fix: gate local voice provider activation until installed_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
