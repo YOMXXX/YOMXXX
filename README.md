@@ -231,11 +231,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3875) — _fix(rpc): handle legacy namespaced method calls_
-- 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2535) — _fix(hook): accept current Claude tool input keys_
-- 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2534) — _fix(rewrite): strip rtk prefix from shell builtins_
-- 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2533) — _fix(parser): preserve UTF-8 boundaries extracting JSON_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/3861) — _fix: gate local voice provider activation until installed_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1307) — _fix(tui): prevent prompt submit storms_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1306) — _fix(tui): update task glyph when status changes_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1304) — _fix(bash): guard PowerShell env output paths_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/249) — _fix(offload): recover after-tool-call messages_
+- 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2596) — _fix(ci): make curl benchmark deterministic_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
