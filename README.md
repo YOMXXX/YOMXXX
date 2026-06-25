@@ -229,11 +229,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1307) — _fix(tui): prevent prompt submit storms_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1306) — _fix(tui): update task glyph when status changes_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1304) — _fix(bash): guard PowerShell env output paths_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/249) — _fix(offload): recover after-tool-call messages_
-- 🔧 Opened [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk/pull/2596) — _fix(ci): make curl benchmark deterministic_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/254) — _fix(record): retry unparsable L1 extraction output_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1321) — _fix(provider): hint OPENSSL_ia32cap connection failures_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1320) — _fix(read): support audio file attachments_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/252) — _fix(record): persist L1 extraction failure diagnostics_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1319) — _fix(tui): wrap modified file paths in sidebar_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
