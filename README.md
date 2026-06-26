@@ -198,16 +198,16 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10730 | 50 | 0 | 9 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 66077 | 30 | 0 | 30 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 32953 | 29 | 24 | 0 |
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6153 | 28 | 2 | 21 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 71096 | 19 | 11 | 3 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 178638 | 17 | 0 | 0 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38020 | 16 | 6 | 5 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 380439 | 4 | 0 | 3 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63608 | 4 | 2 | 0 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 84271 | 3 | 1 | 0 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10851 | 56 | 0 | 15 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6247 | 37 | 2 | 30 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 66354 | 30 | 0 | 30 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 33001 | 26 | 21 | 0 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 71589 | 19 | 11 | 3 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38171 | 16 | 5 | 6 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 179146 | 9 | 0 | 0 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 84454 | 3 | 1 | 0 |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 380587 | 2 | 0 | 2 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63700 | 2 | 1 | 0 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
