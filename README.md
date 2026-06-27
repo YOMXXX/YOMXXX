@@ -229,11 +229,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/266) — _fix(l1): drop ungrounded extracted memories_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/265) — _fix(dedup): cap merged memory priority_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1387) — _fix(skill): allow opting out of external skill dirs_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/264) — _feat(core): add explicit memory write tool_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/263) — _fix(l1): retry failed extraction outputs_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4231) — _fix(meet): forward wake phrase for active meeting bots_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1412) — _fix(tui): report linux clipboard copy failures_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/272) — _fix(search): honor recall embedding timeout_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1405) — _fix(command): run review subtasks with general agent_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1404) — _fix(bedrock): skip tool cache markers_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
