@@ -198,16 +198,14 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10851 | 56 | 0 | 15 |
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6247 | 37 | 2 | 30 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 66354 | 30 | 0 | 30 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 33001 | 26 | 21 | 0 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 71589 | 19 | 11 | 3 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38171 | 16 | 5 | 6 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | 179146 | 9 | 0 | 0 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 84454 | 3 | 1 | 0 |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | 380587 | 2 | 0 | 2 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63700 | 2 | 1 | 0 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10924 | 61 | 0 | 20 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6274 | 42 | 2 | 35 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 66541 | 30 | 0 | 30 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 33301 | 27 | 21 | 1 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 71952 | 19 | 10 | 4 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38241 | 16 | 5 | 6 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 84702 | 3 | 1 | 0 |
+| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63796 | 2 | 1 | 0 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
