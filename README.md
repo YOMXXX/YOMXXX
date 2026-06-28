@@ -227,11 +227,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4231) — _fix(meet): forward wake phrase for active meeting bots_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1412) — _fix(tui): report linux clipboard copy failures_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/272) — _fix(search): honor recall embedding timeout_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1405) — _fix(command): run review subtasks with general agent_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/1404) — _fix(bedrock): skip tool cache markers_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4241) — _fix: demote provider moderation rejections_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4240) — _fix(provider): remap Codex auto model_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4239) — _fix(observability): demote responses usage-limit caps_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4238) — _fix(observability): demote skill install 4xx fetches_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4866) — _fix(landing): serve hosted install.sh wrapper_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
