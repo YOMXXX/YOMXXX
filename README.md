@@ -227,11 +227,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4241) — _fix: demote provider moderation rejections_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4240) — _fix(provider): remap Codex auto model_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4239) — _fix(observability): demote responses usage-limit caps_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4238) — _fix(observability): demote skill install 4xx fetches_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4866) — _fix(landing): serve hosted install.sh wrapper_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/281) — _fix(recall): report effective fallback strategy_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/280) — _fix(core): honor layer model config for runners_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4884) — _Fix BYOK model discovery error after successful connection test_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4692) — _fix(storage): emit RFC 5987 filename* for non-ASCII download names_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/279) — _fix(pipeline): honor L2/L3 runner timeout config_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
