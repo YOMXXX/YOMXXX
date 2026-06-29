@@ -198,14 +198,13 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 10991 | 66 | 0 | 25 |
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6292 | 47 | 2 | 40 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 66723 | 30 | 0 | 30 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 33625 | 23 | 10 | 10 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38313 | 16 | 4 | 7 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 72339 | 15 | 4 | 6 |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 84863 | 2 | 1 | 0 |
-| [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | 63870 | 1 | 1 | 0 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 11051 | 66 | 0 | 25 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 6307 | 50 | 2 | 43 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 67012 | 30 | 0 | 30 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 33858 | 23 | 9 | 12 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 38445 | 16 | 3 | 8 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 72854 | 14 | 3 | 7 |
+| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 85059 | 1 | 0 | 0 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
