@@ -226,11 +226,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/281) — _fix(recall): report effective fallback strategy_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/280) — _fix(core): honor layer model config for runners_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/4884) — _Fix BYOK model discovery error after successful connection test_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/4692) — _fix(storage): emit RFC 5987 filename* for non-ASCII download names_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/279) — _fix(pipeline): honor L2/L3 runner timeout config_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4360) — _fix(agent): list available tools for unknown calls_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4358) — _fix(agent): reuse cached Composio toolkit actions_
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4356) — _fix(agent): avoid RESPONSE stalls on progress backpressure_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4355) — _fix(devices): use socket ack for pairing register_
+- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4353) — _fix(meet): honor auto summarize policy_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
