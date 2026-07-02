@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4403) — _fix(agent): skip super context for context-free first turns_
+- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5054) — _Fix NVIDIA BYOK degraded error reporting_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/369) — _fix(scene): normalize indexed filenames on read_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/368) — _fix(profile): sanitize pulled scene filenames_
 - 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4364) — _fix(memory): classify cloud embedding auth absence_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4360) — _fix(agent): list available tools for unknown calls_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4358) — _fix(agent): reuse cached Composio toolkit actions_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4356) — _fix(agent): avoid RESPONSE stalls on progress backpressure_
-- ✅ Merged [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4355) — _fix(devices): use socket ack for pairing register_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
