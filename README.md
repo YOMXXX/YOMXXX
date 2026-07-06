@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5005) — _fix(daemon): isolate agent temp dirs_
+- 🚫 Closed [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5002) — _Fix mobile write response validation and move search store_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5221) — _fix(web): keep consuming recovered daemon retries_
 - 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5118) — _fix(daemon): support Kiro MCP install_
 - 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4403) — _fix(agent): skip super context for context-free first turns_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5054) — _Fix NVIDIA BYOK degraded error reporting_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/369) — _fix(scene): normalize indexed filenames on read_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/368) — _fix(profile): sanitize pulled scene filenames_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
