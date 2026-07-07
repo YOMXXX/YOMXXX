@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5005) — _fix(daemon): isolate agent temp dirs_
-- 🚫 Closed [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5002) — _Fix mobile write response validation and move search store_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5046) — _fix(daemon): mark workspaces root as task context_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/415) — _fix(gateway): expose safe health diagnostics_
+- ✅ Merged [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5005) — _MUL-4152: fix(daemon): isolate agent temp dirs_
+- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5002) — _Fix mobile write response validation and move search store_
 - 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5221) — _fix(web): keep consuming recovered daemon retries_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5118) — _fix(daemon): support Kiro MCP install_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4403) — _fix(agent): skip super context for context-free first turns_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
