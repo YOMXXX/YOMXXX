@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/434) — _fix(hermes): require explicit memory indexing_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5306) — _fix(daemon): backfill Windows CLI cache env_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/430) — _fix(l1): treat content-filtered extraction as failed_
 - 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5046) — _fix(daemon): mark workspaces root as task context_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/415) — _fix(gateway): expose safe health diagnostics_
-- ✅ Merged [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5005) — _MUL-4152: fix(daemon): isolate agent temp dirs_
-- 🔧 Opened [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5002) — _Fix mobile write response validation and move search store_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5221) — _fix(web): keep consuming recovered daemon retries_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
