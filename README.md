@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5440) — _fix(daemon): honor BYOK defaults in media dispatch hint_
 - 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4728) — _fix(voice): import hotkey items in non-macOS dictation listener_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/434) — _fix(hermes): require explicit memory indexing_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5306) — _fix(daemon): backfill Windows CLI cache env_
+- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5306) — _fix(daemon): backfill Windows CLI cache env_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/430) — _fix(l1): treat content-filtered extraction as failed_
-- 🚫 Closed [`multica-ai/multica`](https://github.com/multica-ai/multica/pull/5046) — _fix(daemon): mark workspaces root as task context_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
