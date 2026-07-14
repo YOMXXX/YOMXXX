@@ -227,7 +227,7 @@
 <!--START_SECTION:activity-->
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5494) — _fix(web): isolate BYOK messages endpoint models_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5440) — _fix(daemon): honor BYOK defaults in media dispatch hint_
-- 🔧 Opened [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4728) — _fix(voice): import hotkey items in non-macOS dictation listener_
+- 🚫 Closed [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4728) — _fix(voice): import hotkey items in non-macOS dictation listener_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/434) — _fix(hermes): require explicit memory indexing_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5306) — _fix(daemon): backfill Windows CLI cache env_
 <!--END_SECTION:activity-->
