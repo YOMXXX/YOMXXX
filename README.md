@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/539) — _fix(gateway): add opt-in recall context dedup_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5870) — _fix(web): portal New Project picker dropdowns_
 - 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5799) — _fix(web): prune retired Ollama Cloud models_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5494) — _fix(web): isolate BYOK messages endpoint models_
 - ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/5440) — _fix(daemon): honor BYOK defaults in media dispatch hint_
-- 🚫 Closed [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman/pull/4728) — _fix(voice): import hotkey items in non-macOS dictation listener_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/434) — _fix(hermes): require explicit memory indexing_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
