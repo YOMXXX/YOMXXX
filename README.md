@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6421) — _fix(web): show Open Design login entry in the project-page agent menu_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6420) — _fix(web): count unique produced files in "Files from this turn" header_
-- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6418) — _fix(daemon): keep daemon as sole writer of run events on stale message PUT_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/785) — _fix: address upstream CI/build issues (#782 #783 #784)_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/781) — _feat(examples): Claude Code hooks for subscription-auth users_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6477) — _fix(design-templates): emit landing placeholders as .svg without png alias_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/810) — _fix(hermes): bound Gateway stdout/stderr logs with a runtime rotation guard_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/809) — _fix(recall): degrade hybrid strategy to keyword when EmbeddingService is absent_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/808) — _security: fix auth bypass, unauthenticated admin endpoints, SSRF, git injection (#672)_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/798) — _feat(knowledge): export llm-wiki / code-graph assets (#779)_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
