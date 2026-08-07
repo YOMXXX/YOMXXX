@@ -198,12 +198,12 @@
 <!--START_SECTION:all-projects-->
 | Project | ⭐ | PRs | ✅ Merged | 🚀 Open |
 |---------|---:|----:|--------:|-------:|
-| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 14897 | 72 | 0 | 54 |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 74883 | 30 | 0 | 30 |
-| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 35995 | 28 | 11 | 3 |
-| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 12655 | 27 | 0 | 27 |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 83907 | 24 | 13 | 8 |
-| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 44210 | 19 | 5 | 4 |
+| [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 17380 | 79 | 0 | 62 |
+| [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code) | 12679 | 31 | 1 | 30 |
+| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 75171 | 30 | 0 | 30 |
+| [`tinyhumansai/openhuman`](https://github.com/tinyhumansai/openhuman) | 36068 | 24 | 9 | 3 |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 84360 | 22 | 13 | 5 |
+| [`multica-ai/multica`](https://github.com/multica-ai/multica) | 44679 | 13 | 4 | 3 |
 <!--END_SECTION:all-projects-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
