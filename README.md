@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- ✅ Merged [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2054) — _fix(mcp): patch @ai-sdk/openai-compatible to stop dropping multi-arg tool calls_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/849) — _fix(config): treat empty/relative offload.dataDir as omitted (must be absolute)_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/847) — _fix(offload): degrade gracefully when the context-engine slot is unavailable_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/845) — _fix(embedding): chunk embedBatch by configurable maxBatchSize_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6595) — _fix(daemon): scope MCP project tools to the signed-in workspace_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2064) — _feat(tui): expose api.keymap to TUI plugins for OpenCode compatibility_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/872) — _fix(gateway): fail loudly when conversation delete removes nothing_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2062) — _fix(session): cap per-message summary diff size to prevent OOM bloat_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2061) — _fix(session): use idle framing when a checkpoint rebuild follows a completed stop_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2060) — _fix(memory): parse Windows backslash paths in memory/cc path locators_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
