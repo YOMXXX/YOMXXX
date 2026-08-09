@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/893) — _fix(offload): resolve session manager in assemble/afterTurn without sessionKey_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/892) — _fix(queue): survive a synchronous task throw in SerialQueue_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2070) — _fix(session): prune tool outputs before serializing compaction request_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/886) — _refactor(offload): replace dist-patch dependency with getSessionMessages_
 - 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2064) — _feat(tui): expose api.keymap to TUI plugins for OpenCode compatibility_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/872) — _fix(gateway): fail loudly when conversation delete removes nothing_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2062) — _fix(session): cap per-message summary diff size to prevent OOM bloat_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2061) — _fix(session): use idle framing when a checkpoint rebuild follows a completed stop_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2060) — _fix(memory): parse Windows backslash paths in memory/cc path locators_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
