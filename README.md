@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2074) — _fix(security): require confirmation for delete commands, including cmd /c del_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/904) — _feat(hermes): mirror built-in memory writes into TencentDB L1_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/893) — _fix(offload): resolve session manager in assemble/afterTurn without sessionKey_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/892) — _fix(queue): survive a synchronous task throw in SerialQueue_
 - 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2070) — _fix(session): prune tool outputs before serializing compaction request_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/886) — _refactor(offload): replace dist-patch dependency with getSessionMessages_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2064) — _feat(tui): expose api.keymap to TUI plugins for OpenCode compatibility_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
