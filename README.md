@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2074) — _fix(security): require confirmation for delete commands, including cmd /c del_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/904) — _feat(hermes): mirror built-in memory writes into TencentDB L1_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/893) — _fix(offload): resolve session manager in assemble/afterTurn without sessionKey_
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/892) — _fix(queue): survive a synchronous task throw in SerialQueue_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2070) — _fix(session): prune tool outputs before serializing compaction request_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2095) — _fix(bash): require confirmation for process termination_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2093) — _fix(config): accept env alias for native MCP servers_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/945) — _feat(knowledge): support Code Graph sparse checkout (#941)_
+- 🔧 Opened [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6738) — _fix(daemon): report missing vela runtime as unavailable_
+- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2091) — _fix(filesystem): reject Windows cross-drive containment_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
