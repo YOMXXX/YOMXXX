@@ -225,11 +225,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1143) — _fix(install): make OpenClaw runtime patch opt-in_
+- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1142) — _feat(gateway): add retry-safe conversation idempotency_
 - 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2095) — _fix(bash): require confirmation for process termination_
 - 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2093) — _fix(config): accept env alias for native MCP servers_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/945) — _feat(knowledge): support Code Graph sparse checkout (#941)_
-- ✅ Merged [`nexu-io/open-design`](https://github.com/nexu-io/open-design/pull/6738) — _fix(daemon): report missing vela runtime as unavailable_
-- 🔧 Opened [`XiaomiMiMo/MiMo-Code`](https://github.com/XiaomiMiMo/MiMo-Code/pull/2091) — _fix(filesystem): reject Windows cross-drive containment_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
