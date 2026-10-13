@@ -225,7 +225,7 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
-- 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1502) — _feat(knowledge): support private repos via managed git credentials_
+- 🚫 Closed [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1502) — _feat(knowledge): support private repos via managed git credentials_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1180) — _fix(proxy): handle selected single-agent Team for OpenCode_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1143) — _fix(install): make OpenClaw runtime patch opt-in_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1142) — _feat(gateway): add retry-safe conversation idempotency_
