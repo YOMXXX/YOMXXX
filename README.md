@@ -226,11 +226,11 @@
 ### 📡  Latest Open Source PRs
 
 <!--START_SECTION:activity-->
+- ✅ Merged [`awesome-dsh-plugin/awesome-dsh-plugin`](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/19191) — _Add YOMXXX/dsh-output-budget_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/2042) — _feat(panel): add keyword search to the skills list_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/2041) — _feat(skill): replace same-name skill after confirmation on import_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/2040) — _fix(panel): keep page state across tab switches (scroll / selection / agent)_
 - 🔧 Opened [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1998) — _fix(l2): hard-cap scene META summary with clause-aware clamping_
-- 🚫 Closed [`TencentCloud/TencentDB-Agent-Memory`](https://github.com/TencentCloud/TencentDB-Agent-Memory/pull/1502) — _feat(knowledge): support private repos via managed git credentials_
 <!--END_SECTION:activity-->
 
 <!-- ╭─────────────────────────────────────────────────────────────╮ -->
